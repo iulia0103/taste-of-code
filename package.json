@@ -1,0 +1,25 @@
+{
+  "name": "taste-of-code",
+  "version": "1.0.0",
+  "description": "codaissuer webpack part 1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iulia0103/taste-of-code.git"
+  },
+  "keywords": [
+    "webpack",
+    "tasteofcode",
+    "game",
+    "balloon"
+  ],
+  "author": "iulia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iulia0103/taste-of-code/issues"
+  },
+  "homepage": "https://github.com/iulia0103/taste-of-code#readme"
+}
