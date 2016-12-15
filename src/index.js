@@ -1,1 +1,4 @@
-document.write('<div>Hello!</div>');
+import App from './App'
+
+const app = new App()
+app.render()
